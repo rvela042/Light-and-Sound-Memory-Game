@@ -35,37 +35,41 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] If I was under the 5-hour limit, I would have definitely loved to add a feature where the background color
+- [x] List anything else that you can get done to improve the app!
+	- If I was under the 5-hour limit, I would have definitely loved to add a feature where the background color
 	of the website would change to a random set of colors depending if the user won or not.  
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x]https://imgur.com/a/IKYVqJ5
+![x] (https://imgur.com/a/IKYVqJ5)
+![](gif2-link-here)
+![](gif3-link-here)
+![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-	While working on the project, I took the time to use the W3schools website - which was listed a few times on the instructions
+[While working on the project, I took the time to use the W3schools website - which was listed a few times on the instructions
 	to better understand the CSS and HTML language. Additionally, I used the StackOverflow webpage to better understand the instructions
-	that were given based off java.
+	that were given based off java.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-	During my time on the project, the only challenge I encountered was creating the nested if-else statements. Unfortunately, the tries
+[During my time on the project, the only challenge I encountered was creating the nested if-else statements. Unfortunately, the tries
 	that I took to get the code right were extremely close. However, after comparing the code that I had with the code that was provided
 	on the instructions, I made sure to copy-paste the code to ensure that the functionalities of the game were present. Additionally, after
 	completing the project, I took the time to study the conditions placed in the if-else statements to better understand them. While, I
-	had the correct structure for the if-else statements, I unfortunately, did not have the correct conditions placed in the statement. 
+	had the correct structure for the if-else statements, I unfortunately, did not have the correct conditions placed in the statement.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-	I would love to ask the following questions:
+[I would love to ask the following questions:
 	- Are there any additional projects, or outside sources your team uses to further improve theirweb development skills? 
-	- What are the main areas of first-year programming that your team focuses on so I can enhance my skills on those areas? 
-	
+	- What are the main areas of first-year programming that your team focuses on so I can enhance my skills on those areas?]
+
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-	The memory game project was a blast to work with. Unfortunately, I reached the 5-hour mark just as I was finishing the game - due to
+[The memory game project was a blast to work with. Unfortunately, I reached the 5-hour mark just as I was finishing the game - due to
 	taking the time to read each step carfully and studying both the CSS and HTML features that would be added into the game. However, if
 	I had more time to work on the project, I would spend the time adding more features, such as adding different color button styles, and
-	adding a randomizer to have the project pick a different pattern every time the user starts the game.  
+	adding a randomizer to have the project pick a different pattern every time the user starts the game.]
 
 
 
@@ -76,7 +80,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [Robert Velasquez]
+    Copyright [Robert Velasuez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
