@@ -1,0 +1,85 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #778899; /*this color is lightslategrey in hex*/
+    color: #fffafa; /*this color is snow-white in hex*/
+}
+/*while working on this project I was curious to see if hex keywords can be added
+in place of color names*/
+
+h1 {
+  font-family: Courier New, monospace; 
+}
+/*to my understanding, it is read by "font name, font style, font family" and every
+font-family has a base font style that "font name's" are derived from*/
+
+button {
+  padding: 10px;
+  border-radius: 50px;
+}
+
+/*acessing the gameButtonArea on the dvision on index.html*/
+
+#gameButtonArea> 
+button {
+  width:150px;
+  height:150px;
+  margin:1px;
+}
+
+.hidden {
+  display: none;
+}
+
+/*setting the button colors before click*/
+
+#button1 {
+    background: lightgreen;
+}
+
+#button2 {
+    background: lightblue;
+}
+
+#button3 {
+    background: pink;
+}
+
+#button4 {
+    background: lightyellow;
+}
+
+/*setting the button colors upon click*/
+
+#button1:active, #button1.lit {
+    background:green;
+}
+
+#button2:active, #button2.lit {
+    background:blue;
+}
+
+#button3:active, #button3.lit {
+    background:red;
+}
+
+#button4:active, #button4.lit {
+    background:yellow;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
