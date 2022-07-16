@@ -72,12 +72,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 	adding a randomizer to have the project pick a different pattern every time the user starts the game.]
 
 
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://youtu.be/KF760Q7Sv6o)
-
-
 ## License
 
     Copyright [Robert Velasuez]
