@@ -7,7 +7,6 @@ Submitted by: Robert Velasquez
 Time spent: 5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/lush-purple-mercury?path=script.js%3A1%3A0
-(I can also provide the Git URL if needed)
 
 ## Required Functionality
 
@@ -43,9 +42,6 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![x] (https://imgur.com/a/IKYVqJ5)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
